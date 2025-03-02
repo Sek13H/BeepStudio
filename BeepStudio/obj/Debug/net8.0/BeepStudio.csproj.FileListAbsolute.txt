@@ -1,0 +1,14 @@
+D:\tools\C#\BeepStudio\BeepStudio\bin\Debug\net8.0\BeepStudio.exe
+D:\tools\C#\BeepStudio\BeepStudio\bin\Debug\net8.0\BeepStudio.deps.json
+D:\tools\C#\BeepStudio\BeepStudio\bin\Debug\net8.0\BeepStudio.runtimeconfig.json
+D:\tools\C#\BeepStudio\BeepStudio\bin\Debug\net8.0\BeepStudio.dll
+D:\tools\C#\BeepStudio\BeepStudio\bin\Debug\net8.0\BeepStudio.pdb
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\BeepStudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\BeepStudio.AssemblyInfoInputs.cache
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\BeepStudio.AssemblyInfo.cs
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\BeepStudio.csproj.CoreCompileInputs.cache
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\BeepStudio.dll
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\refint\BeepStudio.dll
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\BeepStudio.pdb
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\BeepStudio.genruntimeconfig.cache
+D:\tools\C#\BeepStudio\BeepStudio\obj\Debug\net8.0\ref\BeepStudio.dll
